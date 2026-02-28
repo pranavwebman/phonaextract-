@@ -30,4 +30,4 @@ python3 app.py
 Quick One-Line Install and Run
 Copy code
 Bash
-git clone https://github.com/YOUR_USERNAME/phonaextract.git && cd phonaextract && pip install phonenumbers && python app.py
+git clone https://github.com/pranavwebman/phonaextract.git && cd phonaextract && pip install phonenumbers && python app.py
